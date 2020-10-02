@@ -51,7 +51,7 @@ public class LinkChecker {
     
 
     public static void main(String[] args) {
-        permute("harrison");
+        permute("computer");
         String url1 = ""; //Should pull from a list of all possible links then paste it in the link tester
         if (isValid(url1))  
             System.out.println("Yes"); 
