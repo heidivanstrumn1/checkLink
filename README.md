@@ -1,0 +1,2 @@
+# checkLink
+Checks a link
